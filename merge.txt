@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content to append
+=======
+Different Content
+>>>>>>> DEV
